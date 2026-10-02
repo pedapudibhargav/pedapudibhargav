@@ -1,6 +1,6 @@
 # Hi, I'm Bhargava Peddapudi
 
-Senior Staff Engineer / Lead MarTech Architect at **Equinix**, in the San Francisco Bay Area. By day I build edge-rendered enterprise web platforms (AEM Cloud, Next.js, Fastly, AWS) and production RAG search. On my own time I research retrieval: cleaning web data before it reaches the index, and how vector search behaves as a corpus grows.
+Software engineer focused on web platforms and retrieval for RAG. My open-source and research work looks at cleaning web data before it reaches the index, and at how vector search behaves as a corpus grows.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhargava%20Peddapudi-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargava-peddapudi-a3b969100/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--8523--8415-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-8523-8415)
@@ -18,12 +18,11 @@ HTML to RAG-ready Markdown. A 150 KB learned filter strips navigation, footers, 
 ### [Vector Drift Study](https://github.com/pedapudibhargav/vector-drift-study)
 A controlled study of how dense-retrieval Hit@k drifts as a corpus grows from 5k to 100k documents (frozen HNSW, two embedders, exact-search and BM25 controls). Code, data and a [per-query verification browser](https://pedapudibhargav.github.io/vector-drift-study/verify/) are public. IEEE Access manuscript in preparation.
 
-## What I work on
+## Interests
 
-- **Enterprise web platforms:** migrations from legacy CMS to AEM Cloud Services, Next.js, Fastly CDN and AWS; Core Web Vitals and edge caching.
-- **Production RAG and AI agents:** search pipelines on AWS Bedrock, Pinecone and Cohere re-ranking, with Langfuse for LLM observability; Generative Engine Optimization (GEO).
-- **Quality engineering:** Playwright, BrowserStack, Percy and GitHub Actions regression suites; Grafana Loki and Pingdom monitoring.
-- **Teaching:** adjunct professor at Fisk University (front-end and MERN stack).
+- Retrieval-Augmented Generation: ingestion quality, evaluation, vector search behaviour.
+- Web platforms and front-end performance.
+- Teaching: adjunct professor at Fisk University (front-end and MERN stack).
 
 ## Stack
 
@@ -32,11 +31,8 @@ A controlled study of how dense-retrieval Hit@k drifts as a corpus grows from 5k
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20Bedrock-232f3e?logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2ead33?logo=playwright&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-f46800?logo=grafana&logoColor=white)
-![Adobe AEM](https://img.shields.io/badge/Adobe%20Experience%20Manager-eb1000?logo=adobe&logoColor=white)
 
 ## Activity
 
@@ -46,4 +42,4 @@ A controlled study of how dense-retrieval Hit@k drifts as a corpus grows from 5k
   <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/pedapudibhargav/pedapudibhargav/output/github-snake.svg">
 </picture>
 
-<sub>Projects and opinions here are my own and do not represent my employer.</sub>
+<sub>Personal projects, developed on my own time. Opinions are my own.</sub>
