@@ -1,6 +1,6 @@
 # Hi, I'm Bhargava Chary Peddapudi
 
-I build and measure retrieval systems for RAG: cleaning web data before it reaches the index, and studying how vector search behaves as corpora grow. Software engineer by trade, researcher by habit.
+I build and measure retrieval systems for RAG: cleaning web data before it reaches the index, and studying how vector search behaves as corpora grow.
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--8523--8415-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-8523-8415)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhargava%20Peddapudi-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargava-peddapudi-a3b969100/)
